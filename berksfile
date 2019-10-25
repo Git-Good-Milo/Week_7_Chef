@@ -1,0 +1,6 @@
+source "https://supermarket.chef.io/"
+
+# cookbook 'nodejs'
+cookbook 'nginx', '~> 10.0.2'
+
+metadata
